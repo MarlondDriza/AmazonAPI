@@ -1,0 +1,2 @@
+# AmazonAPI
+Amazon Currency
