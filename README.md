@@ -1,10 +1,3 @@
 # AmazonAPI
 Amazon Currency
-Amazon Play with azeil.
-pandeo
-where
-pand
-what
-how
-this
-that
+Amazon Play with
